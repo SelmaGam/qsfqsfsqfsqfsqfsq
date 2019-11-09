@@ -1,7 +1,6 @@
 const Discord = require("discord.js");
 
 const client = new Discord.Client();
-const client2 = new Discord.Client();
 
 const Guild = "211543198651121664";
 const voiceChannel = "613749249968046123";
